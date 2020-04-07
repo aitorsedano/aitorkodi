@@ -2,7 +2,7 @@
 <addon id="context.simpleplaylists.contextmenu" name="simpleplaylists - Contextmenu" version="1.0.4" provider-name="Razzeee">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
-    <import addon="script.simpleplaylists" version="3.0.2"/>
+    <import addon="script.simpleplaylists" version="1.1.1"/>
   </requires>
   <extension point="kodi.context.item">
     <menu id="kodi.core.main">
